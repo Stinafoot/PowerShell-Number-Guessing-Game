@@ -1,7 +1,3 @@
-# GuessGame.ps1
-# A simple number guessing game written in PowerShell
-# Just a fun little script I made to practice PowerShell basics
-
 $highScore = 999  # lower is better (fewer guesses)
 
 function Play-Game {
